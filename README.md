@@ -46,7 +46,7 @@ Now execute this command
 
 execute this command `ls` Here are the directories and files of the server, here you can add plugins or change the properties of the server etc
 
-![server file](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-22-57-59-15_84d3000e3f4017145260f7618db1d683.jpg)
+![server file](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-23-51-31-35_84d3000e3f4017145260f7618db1d683.jpg)
 
 **Note:** While the machine ubuntu or server is running, you will not be able to access the Folder `Nukkit`To modify the `properties` or for example "add a texture pack of the server".
 
