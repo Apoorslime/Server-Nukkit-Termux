@@ -53,7 +53,7 @@ execute this command `ls` Here are the directories and files of the server, here
 #### How do I modify the server.properties?
 Do the command `ls` to see all directories and all files
 
-![Server File](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-22-57-59-15_84d3000e3f4017145260f7618db1d683.jpg)
+![Server File](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-23-51-31-35_84d3000e3f4017145260f7618db1d683.jpg)
 
 Execute this command:
 `nano server.properties` To edit the file
