@@ -64,9 +64,13 @@ To save do `crl + x` On the keyboard
 
 ##### how do i run the Nukkit server again?
 
+after modifying the server to your liking, it's time to Turn your server back on
+
 You are now located in this folder `~/.../root/nukkit`
 
 then execute `cd..` 3 times
+
+Now do `ls` make sure you stay in this position
 
 Now run this command to log into the ubuntu machine
 `./startubuntu.sh`
