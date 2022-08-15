@@ -34,7 +34,7 @@ How can I add a plugin or for example change the default texture pack of my serv
 
 If the server is online you need to stop it, then type in the console `stop`
 
-![Stop Server]()
+![Stop Server](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-22-38-50-03_84d3000e3f4017145260f7618db1d683.jpg)
 
 You are now in the ubuntu machine, you will see this
 `root@localhost:~#` Then type exit to exit the ubuntu machine
@@ -70,6 +70,4 @@ Now execute this command
 
 `java -jar nukkit-1.0-SNAPSHOT.jar`
 
-![hy]()
 
-https://f.cloud.github.com
