@@ -58,6 +58,8 @@ Do the command `ls` to see all directories and all files
 Execute this command:
 `nano server.properties` To edit the file
 
+![nano](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-23-04-15-28_84d3000e3f4017145260f7618db1d683.jpg)
+
 To save do `crl + x` On the keyboard
 
 ##### how do i run the Nukkit server again?
