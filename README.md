@@ -82,6 +82,9 @@ in case `./ startubuntu` does not execute do`chmod u+x startubuntu.sh` And try a
 Now run this command to get into the server folder
 `cd nukkit`
 
+![start Ubuntu](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-23-32-42-21_84d3000e3f4017145260f7618db1d683.jpg)
+
+
 Now execute this command
 
 `java -jar nukkit-1.0-SNAPSHOT.jar`
