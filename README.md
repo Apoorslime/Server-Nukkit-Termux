@@ -89,4 +89,8 @@ Now execute this command
 
 `java -jar nukkit-1.0-SNAPSHOT.jar`
 
+![Server started](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-23-43-17-20_84d3000e3f4017145260f7618db1d683.jpg)
+
+And there you have it now you have your server back online and ready to use enjoy ;)
+
 
