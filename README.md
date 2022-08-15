@@ -38,6 +38,7 @@ If the server is online you need to stop it, then type in the console `stop`
 
 You are now in the ubuntu machine, you will see this
 `root@localhost:~#` Then type `exit` to exit the ubuntu machine
+
 ![Exit Ubuntu](https://raw.githubusercontent.com/apoorslime/termux/main/Screenshot_2022-08-15-22-39-45-97_84d3000e3f4017145260f7618db1d683.jpg)
 
 Now execute this command
