@@ -13,11 +13,35 @@ Next you have to install Termux. I recommend downloading Termux on F-Droid. Beca
 Launching the Termux application, we enter the following command:
 `termux-setup-storage` And Choose "Allow"
 
+##### install Ubuntu
+
 Next, they will upgrade and install what is needed for Ubuntu Focal to work, enter the following command
 
 `apt-get update && apt-get upgrade -y && apt-get install wget proot git -y`
 
 After completing the installation as above. We will proceed to boot Ubuntu
+Enter the command as follows:
+
+`cd`
+
+`git clone https://github.com/BeanGTA/Linux-Termux-Nukkit.git`
+
+`cd Linux-Termux-Nukkit`
+
+`bash ubuntu.sh -y`
+
+`bash startubuntu.sh`
+
+##### install server
+
+So you have entered the world of Linux Ubuntu. Okay we will continue to install Java 8 and Nukkit
+
+Enter the command as follows:
+
+`apt-get update && apt-get upgrade && apt-get install wget openjdk-8-jdk -y`
+
+Next download the server Nukkit For Ubuntu
+
 Enter the command as follows:
 
 `mkdir nukkit`
@@ -26,8 +50,15 @@ Enter the command as follows:
 
 `wget https://ci.opencollab.dev/job/NukkitX/job/Nukkit/job/master/lastSuccessfulBuild/artifact/target/nukkit-1.0-SNAPSHOT.jar`
 
-command to execute Nukkit:
+And start and running Nukkit on Ubuntu
+
 `java -jar nukkit-1.0-SNAPSHOT.jar`
+
+
+
+
+
+
 
 ## How do I modify my server?
 How can I add a plugin or for example change the default texture pack of my server?, In this section I will explain how to do it
